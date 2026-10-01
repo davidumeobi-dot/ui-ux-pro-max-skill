@@ -1,0 +1,6 @@
+# Impeccable
+npx impeccable install --providers=claude --scope=global
+# o dentro de Claude Code: /plugin marketplace add pbakaus/impeccable
+
+# Emil Kowalski
+npx skills@latest add emilkowalski/skills
